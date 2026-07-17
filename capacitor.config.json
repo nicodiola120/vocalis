@@ -1,0 +1,17 @@
+{
+  "appId": "com.vocalis.app",
+  "appName": "Vocalis",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true,
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "LiveUpdate": {
+      "defaultChannel": "production",
+      "autoDeleteBundles": true,
+      "readyTimeout": 10000
+    }
+  }
+}

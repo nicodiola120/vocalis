@@ -1,0 +1,6 @@
+{
+  "name": "Choir Voice Mixer",
+  "description": "A professional multi-track vocal mixer for choirs. Balance Soprano, Alto, Tenor, and Bass tracks, loop sections, and import custom hymn ZIP bundles for offline practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

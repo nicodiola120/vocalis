@@ -1,0 +1,15 @@
+node_modules/
+dist/
+android/.gradle/
+android/app/build/
+android/build/
+android/capacitor-cordova-android-plugins/build/
+android/capacitor-android/build/
+android/capacitor-dialog/build/
+android/capacitor-filesystem/build/
+android/capacitor-local-notifications/build/
+android/local.properties
+*.apk
+.env
+.DS_Store
+Thumbs.db
